@@ -1,0 +1,4 @@
+*.class
+.vs
+Debug
+.vscode/
